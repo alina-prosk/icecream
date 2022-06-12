@@ -1,0 +1,2 @@
+!function(){var o={openModFrBtn:document.querySelector("[data-modfr-open]"),closeModFrBtn:document.querySelector("[data-modfr-close]"),modfr:document.querySelector("[data-modfr]"),body:document.querySelector("body")};function e(){o.modfr.classList.toggle("is-hidden"),o.body.classList.toggle("no-scroll")}o.openModFrBtn.addEventListener("click",e),o.closeModFrBtn.addEventListener("click",e)}();
+//# sourceMappingURL=index.91f7cdeb.js.map
