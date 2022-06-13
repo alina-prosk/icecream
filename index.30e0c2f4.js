@@ -1,0 +1,2 @@
+!function(){var e={openMenuBtn:document.querySelector("[data-menu-open]"),closeMenuBtn:document.querySelector("[data-menu-close]"),closeAnchorLink:document.querySelector("[data-anchor-close]"),modal:document.querySelector("[data-menu]"),body:document.querySelector("body")};function n(){e.modal.classList.toggle("is-hidden-mob"),e.body.classList.toggle("no-scroll")}e.openMenuBtn.addEventListener("click",n),e.closeMenuBtn.addEventListener("click",n),e.closeAnchorLink.addEventListener("click",n)}();
+//# sourceMappingURL=index.30e0c2f4.js.map
