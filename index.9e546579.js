@@ -1,0 +1,2 @@
+!function(){var o={openModLocBtn:document.querySelector("[data-modloc-open]"),closeModLocBtn:document.querySelector("[data-modloc-close]"),modloc:document.querySelector("[data-modloc]"),body:document.querySelector("body")};function e(){o.modloc.classList.toggle("is-hidden"),o.body.classList.toggle("no-scroll")}o.openModLocBtn.addEventListener("click",e),o.closeModLocBtn.addEventListener("click",e)}();
+//# sourceMappingURL=index.9e546579.js.map
